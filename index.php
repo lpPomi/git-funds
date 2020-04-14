@@ -1,5 +1,5 @@
 <?php
 
-echo "Hola con git"
+echo "Hola con git from github"
 
 ?>
